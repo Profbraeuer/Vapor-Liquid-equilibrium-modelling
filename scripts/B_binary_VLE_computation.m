@@ -1,0 +1,13 @@
+%Model VLE for selected binary system
+
+selectedSystem = selectSystem(systems);
+
+%% MODEL calculations
+
+modelInput = makeModelInput( ...
+    modelName,...
+    selectedSystem.id,...
+    antoine,...
+    gE);
+
+plotVLESystem(selectedSystem,modelInput)
