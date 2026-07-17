@@ -49,13 +49,14 @@ The code was developed using MATLAB 2023b. Compatibility with other MATLAB versi
 
 
 root/
-├── database/
-├── helper\_functions/
-├── thermodynamic\_modeling\_functions/
+ - database/
 
-├── scripts/
-├── main.m
-└── README.md
+&#x20;- helper\_functions/
+ - thermodynamic\_modeling\_functions/
+
+&#x20;- scripts/
+ - main.m
+ - README.md
 
 
 
