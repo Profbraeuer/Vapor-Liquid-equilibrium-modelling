@@ -18,9 +18,9 @@ This repository contains parts of the MATLAB source code and experimental vaporâ
 
 *Tom Goldberg, Volker Herdegen, Andreas S. Braeuer*
 
-*"Isobaric vapor-liquid equilibria of binary and multicomponent organic carbonate mixtures (DMC, EMC, DEC, EC, and PC) from 101.3 kPa to 5.0 kPa"*
+*"Isobaric Vapor-Liquid Equilibria of Binary and Multicomponent Organic Carbonate Mixtures (DMC, EMC, DEC, EC, and PC) at 101.3 kPa, 25.0, and 5.0 kPa"*
 
-*Journal of Chemical \& Engineering Data 2026*
+*Journal of Chemical \& Engineering Data 2026* (https://doi.org/10.1021/acs.jced.6c00429)
 
 
 
